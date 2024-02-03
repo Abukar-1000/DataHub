@@ -45,16 +45,17 @@
 - Child To Parent
     - Use event callbacks
         - Create a parameter that will be a callback function passed by the parent.
+            - callback is defined in parent, but passed as a parameter here.
             - ```
                 [Parameter]
                 public EventCallback<string> callback { get; set; }
             ```
-            - callback is defined in parent, but passed as a parameter here.
+        
         - invoke it using C# labda expressions, as a callback on an event.
+            - args are the parameters defined in the function.
             - ```
                 <button @onclick = "@( () => callback.InvokeAsync(args) )"> </button>
             ```
-            - args are the parameters defined in the function.
 
 - Sibling to Sibling
     - 
@@ -66,4 +67,4 @@
 - onAfterRender
 
 ### Resources for Managing State
-- [ 🔥 Component Communication (Parameters, EventCallbacks & States/Services) ] (https://www.youtube.com/watch?v=QSM1Vhu1Nsc ' 🔥 Component Communication (Parameters, EventCallbacks & States/Services)')
+- [🔥 Component Communication (Parameters, EventCallbacks & States/Services)](https://www.youtube.com/watch?v=QSM1Vhu1Nsc)
