@@ -36,7 +36,7 @@
 ### Communication
 - Parent to Child
     - Use properties
-    - Ex: ```
+    - ```
         [Parameter]
         private string? name = ""
     ```
@@ -45,13 +45,13 @@
 - Child To Parent
     - Use event callbacks
         - Create a parameter that will be a callback function passed by the parent.
-            - C# ```
+            - ```
                 [Parameter]
                 public EventCallback<string> callback { get; set; }
             ```
             - callback is defined in parent, but passed as a parameter here.
         - invoke it using C# labda expressions, as a callback on an event.
-            - C# ```
+            - ```
                 <button @onclick = "@( () => callback.InvokeAsync(args) )"> </button>
             ```
             - args are the parameters defined in the function.
@@ -66,4 +66,4 @@
 - onAfterRender
 
 ### Resources for Managing State
-- 
+- [ 🔥 Component Communication (Parameters, EventCallbacks & States/Services) ] (https://www.youtube.com/watch?v=QSM1Vhu1Nsc ' 🔥 Component Communication (Parameters, EventCallbacks & States/Services)')
