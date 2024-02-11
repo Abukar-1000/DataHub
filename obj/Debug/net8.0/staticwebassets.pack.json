@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Abuka\\OneDrive\\Desktop\\test\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\test.bundle.scp.css",
+      "Id": "C:\\Users\\Abuka\\OneDrive\\Desktop\\DataHub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\test.bundle.scp.css",
       "PackagePath": "staticwebassets\\test.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Abuka\\OneDrive\\Desktop\\test\\wwwroot\\app.css",
+      "Id": "C:\\Users\\Abuka\\OneDrive\\Desktop\\DataHub\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\Abuka\\OneDrive\\Desktop\\test\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\Abuka\\OneDrive\\Desktop\\DataHub\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Abuka\\OneDrive\\Desktop\\test\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Abuka\\OneDrive\\Desktop\\DataHub\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Abuka\\OneDrive\\Desktop\\test\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\Abuka\\OneDrive\\Desktop\\DataHub\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

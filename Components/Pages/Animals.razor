@@ -1,0 +1,30 @@
+@page "/animals"
+@rendermode InteractiveServer
+
+<PageTitle>Animals</PageTitle>
+
+@if (animalDetails != null) {
+    
+    <Animal animalDetails = "@animalDetails" />
+}
+
+<Animal animalDetails = "@animalDetails" />
+
+<button @onclick="requestData" class="btn btn-md btn-dark">Generate Cat Imgs</button>
+
+@code {
+    public ClassObjects.Img animalDetails = null;
+    protected const string apiKey = "live_THfKEnOFvTNC74fnjZVMNsYGosSpgKJMpQs8dbZn7opZGBvMGE5DLJxLdBWXnvJ4";
+    public HttpClient client = new HttpClient();
+    public async void requestData() {
+        @* client.DefaultRequestHeaders.Add("x-api-key", apiKey); *@
+        animalDetails = await client.GetFromJsonAsync<ClassObjects.Img>($"https://api.thecatapi.com/v1/images/0XYvRd7oD?api_key={apiKey}");
+        Console.WriteLine($@"
+            {animalDetails.breeds[0].origin}
+            {animalDetails.breeds[0].name}
+            {animalDetails.url}
+        ");
+
+        Console.WriteLine("Request Triggered!");
+    }
+}

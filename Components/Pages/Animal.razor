@@ -1,0 +1,28 @@
+@page "/animal"
+@rendermode InteractiveServer
+
+<PageTitle>Animal</PageTitle>
+
+@if (animalDetails != null) {
+
+    <div class="border border-1 rounded p-2 ps-3">
+        <div>
+            <img />
+        </div>
+
+    @foreach (ClassObjects.Animal myAnimal in animalDetails.breeds) {
+
+        <div>
+            <h3>Name: @myAnimal.name</h3>
+            <h5>Origin: </h5>
+            <h5>Life Span: </h5>
+            <h5>Learn more <span><a href="">HERE</a></span>!</h5>
+        </div>
+    }
+    </div>
+}
+
+@code {
+    [Parameter]
+    public Img animalDetails {get; set;}
+}

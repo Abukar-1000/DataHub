@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wJXvyNssBsivMd54CXbgUHU+DIyrCX0QYnUgD6uFc8k=",
+  "Hash": "C9aSpiSmb7WjuBIJg+T6XVsa6RfFInW8XX61Zh4wHy4=",
   "Source": "test",
   "BasePath": "_content/test",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "test\\wwwroot",
       "Source": "test",
-      "ContentRoot": "C:\\Users\\Abuka\\OneDrive\\Desktop\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abuka\\OneDrive\\Desktop\\DataHub\\wwwroot\\",
       "BasePath": "_content/test",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Abuka\\OneDrive\\Desktop\\test\\obj\\Debug\\net8.0\\scopedcss\\bundle\\test.styles.css",
+      "Identity": "C:\\Users\\Abuka\\OneDrive\\Desktop\\DataHub\\obj\\Debug\\net8.0\\scopedcss\\bundle\\test.styles.css",
       "SourceId": "test",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Abuka\\OneDrive\\Desktop\\test\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Abuka\\OneDrive\\Desktop\\DataHub\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/test",
       "RelativePath": "test.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Abuka\\OneDrive\\Desktop\\test\\obj\\Debug\\net8.0\\scopedcss\\bundle\\test.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Abuka\\OneDrive\\Desktop\\DataHub\\obj\\Debug\\net8.0\\scopedcss\\bundle\\test.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Abuka\\OneDrive\\Desktop\\test\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\test.bundle.scp.css",
+      "Identity": "C:\\Users\\Abuka\\OneDrive\\Desktop\\DataHub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\test.bundle.scp.css",
       "SourceId": "test",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Abuka\\OneDrive\\Desktop\\test\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Abuka\\OneDrive\\Desktop\\DataHub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/test",
       "RelativePath": "test.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Abuka\\OneDrive\\Desktop\\test\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\test.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Abuka\\OneDrive\\Desktop\\DataHub\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\test.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Abuka\\OneDrive\\Desktop\\test\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\Abuka\\OneDrive\\Desktop\\DataHub\\wwwroot\\app.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Abuka\\OneDrive\\Desktop\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abuka\\OneDrive\\Desktop\\DataHub\\wwwroot\\",
       "BasePath": "_content/test",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Abuka\\OneDrive\\Desktop\\test\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Abuka\\OneDrive\\Desktop\\DataHub\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Abuka\\OneDrive\\Desktop\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abuka\\OneDrive\\Desktop\\DataHub\\wwwroot\\",
       "BasePath": "_content/test",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Abuka\\OneDrive\\Desktop\\test\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Abuka\\OneDrive\\Desktop\\DataHub\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Abuka\\OneDrive\\Desktop\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abuka\\OneDrive\\Desktop\\DataHub\\wwwroot\\",
       "BasePath": "_content/test",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Abuka\\OneDrive\\Desktop\\test\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Abuka\\OneDrive\\Desktop\\DataHub\\wwwroot\\favicon.png",
       "SourceId": "test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Abuka\\OneDrive\\Desktop\\test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abuka\\OneDrive\\Desktop\\DataHub\\wwwroot\\",
       "BasePath": "_content/test",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

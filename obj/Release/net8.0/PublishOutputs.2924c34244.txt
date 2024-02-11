@@ -1,0 +1,7 @@
+C:\Users\Abuka\OneDrive\Desktop\DataHub\out\test.exe
+C:\Users\Abuka\OneDrive\Desktop\DataHub\out\appsettings.Development.json
+C:\Users\Abuka\OneDrive\Desktop\DataHub\out\appsettings.json
+C:\Users\Abuka\OneDrive\Desktop\DataHub\out\test.dll
+C:\Users\Abuka\OneDrive\Desktop\DataHub\out\test.deps.json
+C:\Users\Abuka\OneDrive\Desktop\DataHub\out\test.runtimeconfig.json
+C:\Users\Abuka\OneDrive\Desktop\DataHub\out\test.pdb

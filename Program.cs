@@ -1,4 +1,5 @@
 using test.Components;
+using test.Components.Pages;
 
 var builder = WebApplication.CreateBuilder(args);
 
