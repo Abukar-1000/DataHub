@@ -28,3 +28,8 @@ C:\Users\Abuka\OneDrive\Desktop\DataHub\obj\Release\net8.0\refint\test.dll
 C:\Users\Abuka\OneDrive\Desktop\DataHub\obj\Release\net8.0\test.pdb
 C:\Users\Abuka\OneDrive\Desktop\DataHub\obj\Release\net8.0\test.genruntimeconfig.cache
 C:\Users\Abuka\OneDrive\Desktop\DataHub\obj\Release\net8.0\ref\test.dll
+C:\Users\Abuka\OneDrive\Desktop\DataHub\bin\Release\net8.0\out\web.config
+C:\Users\Abuka\OneDrive\Desktop\DataHub\bin\Release\net8.0\out\appsettings.Development.json
+C:\Users\Abuka\OneDrive\Desktop\DataHub\bin\Release\net8.0\out\appsettings.json
+C:\Users\Abuka\OneDrive\Desktop\DataHub\bin\Release\net8.0\out\test.deps.json
+C:\Users\Abuka\OneDrive\Desktop\DataHub\bin\Release\net8.0\out\test.runtimeconfig.json

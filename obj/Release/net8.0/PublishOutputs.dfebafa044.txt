@@ -1,0 +1,12 @@
+C:\Users\Abuka\OneDrive\Desktop\DataHub\bin\Release\net8.0\publish\test.exe
+C:\Users\Abuka\OneDrive\Desktop\DataHub\bin\Release\net8.0\publish\out\web.config
+C:\Users\Abuka\OneDrive\Desktop\DataHub\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Abuka\OneDrive\Desktop\DataHub\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Abuka\OneDrive\Desktop\DataHub\bin\Release\net8.0\publish\out\appsettings.Development.json
+C:\Users\Abuka\OneDrive\Desktop\DataHub\bin\Release\net8.0\publish\out\appsettings.json
+C:\Users\Abuka\OneDrive\Desktop\DataHub\bin\Release\net8.0\publish\out\test.deps.json
+C:\Users\Abuka\OneDrive\Desktop\DataHub\bin\Release\net8.0\publish\out\test.runtimeconfig.json
+C:\Users\Abuka\OneDrive\Desktop\DataHub\bin\Release\net8.0\publish\test.dll
+C:\Users\Abuka\OneDrive\Desktop\DataHub\bin\Release\net8.0\publish\test.deps.json
+C:\Users\Abuka\OneDrive\Desktop\DataHub\bin\Release\net8.0\publish\test.runtimeconfig.json
+C:\Users\Abuka\OneDrive\Desktop\DataHub\bin\Release\net8.0\publish\test.pdb
